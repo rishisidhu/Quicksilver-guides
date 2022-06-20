@@ -35,8 +35,8 @@ $ ./quicksilverd keys add my-key-name --ledger
 ```
 
 
-![review](./screenshots/review_ledger.png)
-![approve](./screenshots/approve_ledger.png)
+![review](./screenshots/review_ledger.jpg)
+![approve](./screenshots/approve_ledger.jpg)
 
 
 
