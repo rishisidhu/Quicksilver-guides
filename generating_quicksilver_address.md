@@ -42,7 +42,7 @@ $ ./quicksilverd keys add my-key-name --ledger
 This step is for those users who do not possess a Ledger or want to generate a Quicksilver address from their raw mnemonic. 
 
 
-> _The mnemonic shown below is a random one and doesn't correspond to any real address. It is just used for illustration purposes
+> _The mnemonic shown below is a random one and doesn't correspond to any real address. It is just used for illustration purposes_
 
 ```
 $ ./quicksilverd keys add my-key-name --interactive
@@ -85,4 +85,9 @@ It is the only way to recover your account if you ever forget your password.
 word1 word2 word3 word4 soon allword some word could drink plastic target indoor material city need file zone lambo greece town never goat arrest
 ```
 
+<br>
+
+---
+
+Voila! You have your quicksilver address now. You are ready to experience liquid staking on Cosmos SDK networks!
 
